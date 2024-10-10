@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ahjinjja-clo/uts-backend-roro.git/static/css/main.762f0d74.css",
-    "main.js": "/ahjinjja-clo/uts-backend-roro.git/static/js/main.17789e06.js",
-    "index.html": "/ahjinjja-clo/uts-backend-roro.git/index.html",
-    "main.762f0d74.css.map": "/ahjinjja-clo/uts-backend-roro.git/static/css/main.762f0d74.css.map",
-    "main.17789e06.js.map": "/ahjinjja-clo/uts-backend-roro.git/static/js/main.17789e06.js.map"
+    "main.css": "/uts-backend-roro/static/css/main.762f0d74.css",
+    "main.js": "/uts-backend-roro/static/js/main.17789e06.js",
+    "index.html": "/uts-backend-roro/index.html",
+    "main.762f0d74.css.map": "/uts-backend-roro/static/css/main.762f0d74.css.map",
+    "main.17789e06.js.map": "/uts-backend-roro/static/js/main.17789e06.js.map"
   },
   "entrypoints": [
     "static/css/main.762f0d74.css",
